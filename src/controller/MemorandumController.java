@@ -9,8 +9,9 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 /**
- *
+ * @Fecha: Martes 16 de Julio del 2024
  * @author Vite
+ * @Descripción: Controlador del CRUD para los Memos
  */
 public class MemorandumController {
     public Date fecha;
