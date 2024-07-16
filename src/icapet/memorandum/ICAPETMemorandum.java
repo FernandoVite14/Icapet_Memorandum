@@ -13,7 +13,7 @@ public class ICAPETMemorandum {
     
     public static void main(String[] args) {
         Conexion conn = new Conexion();
-        conn.establecerconecxion();
+        conn.establecerconexion();
         System.out.println("hola");
     }
     
